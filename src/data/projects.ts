@@ -72,9 +72,10 @@ export const projects: Project[] = [
     status: 'live',
   },
   {
-    name: 'r2-sync',
+    name: 'r2-image-sync',
     description: 'Cloudflare R2 文件同步工具',
     tags: ['CLI', 'Storage'],
+    repo: 'https://github.com/GreenBeanLiu/r2-image-sync',
     status: 'wip',
   },
   {
