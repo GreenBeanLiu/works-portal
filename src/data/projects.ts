@@ -79,12 +79,6 @@ export const projects: Project[] = [
     status: 'wip',
   },
   {
-    name: 'skills-lab',
-    description: 'Claude Code Skills 实验室',
-    tags: ['AI', 'Tool'],
-    status: 'wip',
-  },
-  {
     name: 'threejs-demo',
     description: 'Three.js 学习项目',
     tags: ['3D', 'Frontend'],
