@@ -37,6 +37,7 @@ export const projects: Project[] = [
     description: '小红书内容发现与分析实验室',
     tags: ['AI', 'Scraping'],
     url: 'https://xhs-discovery-lab-web.vercel.app',
+    repo: 'https://github.com/GreenBeanLiu/xhs-discovery-lab',
     status: 'live',
   },
   {
@@ -44,6 +45,7 @@ export const projects: Project[] = [
     description: 'URL 收件箱 MVP，保存和整理链接',
     tags: ['Productivity'],
     url: 'https://url-inbox-mvp-production.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/url-inbox-mvp',
     status: 'live',
   },
   {
@@ -51,6 +53,7 @@ export const projects: Project[] = [
     description: '自动化 agent 工具',
     tags: ['AI', 'Agent'],
     url: 'https://gg-agent-production.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/gg-agent',
     status: 'live',
   },
   {
@@ -64,24 +67,28 @@ export const projects: Project[] = [
     name: 'emotion-companion',
     description: 'AI 情感陪伴桌面应用',
     tags: ['AI', 'Desktop'],
+    repo: 'https://github.com/GreenBeanLiu/emotion-companion',
     status: 'wip',
   },
   {
     name: 'kuwagata-app',
     description: '锹形虫个体管理平台，AI 自动测量体长/大颚，记录累代谱系与换饵提醒',
     tags: ['Full-Stack', 'AI'],
+    repo: 'https://github.com/GreenBeanLiu/kuwagata-app',
     status: 'wip',
   },
   {
     name: 'niche-radar',
     description: '赛道雷达，多维度评分与筛选创业/产品候选方向',
     tags: ['Full-Stack', 'AI'],
+    repo: 'https://github.com/GreenBeanLiu/niche-radar',
     status: 'wip',
   },
   {
     name: 'pawboard',
     description: '宠物管理看板',
     tags: ['Full-Stack'],
+    repo: 'https://github.com/GreenBeanLiu/pawboard',
     status: 'wip',
   },
   {
@@ -89,36 +96,42 @@ export const projects: Project[] = [
     description: 'AI 驱动的 POD 按需印刷图片生成平台，生成 Etsy/Shopify/Amazon 产品图',
     tags: ['Full-Stack', 'AI', 'Image'],
     url: 'https://podgen-production-da45.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/podgen',
     status: 'live',
   },
   {
     name: 'reel-gen',
     description: '数据可视化短视频生成工具，CSV 输入 Bar Chart Race 动画，一键导出发布到社媒',
     tags: ['Full-Stack', 'AI'],
+    repo: 'https://github.com/GreenBeanLiu/reel-gen',
     status: 'wip',
   },
   {
     name: 'saas-base',
     description: 'TanStack Start SaaS 项目基础模板',
     tags: ['Template'],
+    repo: 'https://github.com/GreenBeanLiu/saas-base',
     status: 'archived',
   },
   {
     name: 'sd-studio',
     description: 'AI 3D 模型生成平台，文字/图片输入，接入多 Provider，实时 Three.js 预览',
     tags: ['Full-Stack', 'AI', '3D'],
+    repo: 'https://github.com/GreenBeanLiu/sd-studio',
     status: 'wip',
   },
   {
     name: 'trail-atlas',
     description: '户外徒步路线地图 App（Expo）',
     tags: ['Mobile', 'Outdoor'],
+    repo: 'https://github.com/GreenBeanLiu/trail-atlas',
     status: 'wip',
   },
   {
     name: 'tripo-gen',
     description: '文字生成 3D 模型，Tripo3D + Three.js 实时预览',
     tags: ['Full-Stack', 'AI', '3D'],
+    repo: 'https://github.com/GreenBeanLiu/tripo-gen',
     status: 'wip',
   },
   {
@@ -147,6 +160,7 @@ export const projects: Project[] = [
     description: 'Three.js 学习项目',
     tags: ['3D', 'Frontend'],
     url: 'https://threejs-demo-production.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/threejs-demo',
     status: 'live',
   },
   {
@@ -154,6 +168,7 @@ export const projects: Project[] = [
     description: 'Claude API 测试与实验',
     tags: ['AI', 'API'],
     url: 'https://claude-api-test-production.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/claude-api-test',
     status: 'live',
   },
 ]
