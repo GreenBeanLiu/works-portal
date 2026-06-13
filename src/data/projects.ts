@@ -9,6 +9,30 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    name: 'go-camp',
+    description: '户外帐篷 & 装备选购平台，支持按重量/人数/价格筛选，含管理后台和淘宝返利链接',
+    tags: ['Full-Stack', 'Outdoor', 'AI'],
+    url: 'https://go-camp-production.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/go-camp',
+    status: 'live',
+  },
+  {
+    name: 'pack-planner',
+    description: '轻量户外打包规划工具，从淘宝截图 AI 识别装备，支持分享链接',
+    tags: ['Frontend', 'AI', 'Outdoor'],
+    url: 'https://pack-planner.pages.dev',
+    repo: 'https://github.com/GreenBeanLiu/pack-planner',
+    status: 'live',
+  },
+  {
+    name: 'trail-planner',
+    description: '户外徒步路线规划工具',
+    tags: ['Full-Stack', 'Outdoor'],
+    url: 'https://trail-planner-production.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/trail-planner',
+    status: 'live',
+  },
+  {
     name: 'ai-inpaint-tool',
     description: 'AI 图像修复工具，基于 inpainting 技术',
     tags: ['AI', 'Image'],
