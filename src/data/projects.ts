@@ -33,13 +33,6 @@ export const projects: Project[] = [
     status: 'live',
   },
   {
-    name: 'ai-inpaint-tool',
-    description: 'AI 图像修复工具，基于 inpainting 技术',
-    tags: ['AI', 'Image'],
-    url: 'https://ai-inpaint-tool-production.up.railway.app',
-    status: 'live',
-  },
-  {
     name: 'xhs-discovery-lab',
     description: '小红书内容发现与分析实验室',
     tags: ['AI', 'Scraping'],
