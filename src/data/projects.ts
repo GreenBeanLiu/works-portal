@@ -85,7 +85,7 @@ export const projects: Project[] = [
     tags: ['Full-Stack'],
     url: 'https://pawboard-production.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/pawboard',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'podgen',
