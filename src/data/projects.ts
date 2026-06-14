@@ -138,7 +138,7 @@ export const projects: Project[] = [
     description: 'Cloudflare R2 文件同步工具',
     tags: ['CLI', 'Storage'],
     repo: 'https://github.com/GreenBeanLiu/r2-image-sync',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'claude-api-test',
