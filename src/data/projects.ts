@@ -107,6 +107,7 @@ export const projects: Project[] = [
     name: 'sd-studio',
     description: 'AI 3D 模型生成平台，文字/图片输入，接入多 Provider，实时 Three.js 预览',
     tags: ['Full-Stack', 'AI', '3D'],
+    url: 'https://sd-studio-production.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/sd-studio',
     status: 'wip',
   },
