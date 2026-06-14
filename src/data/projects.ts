@@ -61,7 +61,7 @@ export const projects: Project[] = [
     description: 'AI 情感陪伴桌面应用',
     tags: ['AI', 'Desktop'],
     repo: 'https://github.com/GreenBeanLiu/emotion-companion',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'kuwagata-app',
