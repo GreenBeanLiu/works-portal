@@ -77,7 +77,7 @@ export const projects: Project[] = [
     tags: ['Full-Stack', 'AI'],
     url: 'https://niche-radar-production.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/niche-radar',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'pawboard',
