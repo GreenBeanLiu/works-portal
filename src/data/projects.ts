@@ -116,7 +116,7 @@ export const projects: Project[] = [
     description: '户外徒步路线地图 App（Expo）',
     tags: ['Mobile', 'Outdoor'],
     repo: 'https://github.com/GreenBeanLiu/trail-atlas',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'agent-config-cli',
