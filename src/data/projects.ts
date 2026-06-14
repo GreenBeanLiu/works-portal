@@ -83,6 +83,7 @@ export const projects: Project[] = [
     name: 'pawboard',
     description: '宠物管理看板',
     tags: ['Full-Stack'],
+    url: 'https://pawboard-production.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/pawboard',
     status: 'wip',
   },
