@@ -119,14 +119,6 @@ export const projects: Project[] = [
     status: 'wip',
   },
   {
-    name: 'tripo-gen',
-    description: '文字生成 3D 模型，Tripo3D + Three.js 实时预览',
-    tags: ['Full-Stack', 'AI', '3D'],
-    url: 'https://tripo-gen-production.up.railway.app',
-    repo: 'https://github.com/GreenBeanLiu/tripo-gen',
-    status: 'live',
-  },
-  {
     name: 'agent-config-cli',
     description: 'Agent 配置命令行工具',
     tags: ['CLI', 'Agent'],
