@@ -109,7 +109,7 @@ export const projects: Project[] = [
     tags: ['Full-Stack', 'AI', '3D'],
     url: 'https://sd-studio-production.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/sd-studio',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'trail-atlas',
