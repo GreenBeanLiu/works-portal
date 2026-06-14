@@ -69,7 +69,7 @@ export const projects: Project[] = [
     tags: ['Full-Stack', 'AI'],
     url: 'https://kuwagata-app-production.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/kuwagata-app',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'niche-radar',
