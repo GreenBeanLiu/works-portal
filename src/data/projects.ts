@@ -99,8 +99,9 @@ export const projects: Project[] = [
     name: 'reel-gen',
     description: '数据可视化短视频生成工具，CSV 输入 Bar Chart Race 动画，一键导出发布到社媒',
     tags: ['Full-Stack', 'AI'],
+    url: 'https://reel-gen-production-a065.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/reel-gen',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'sd-studio',
