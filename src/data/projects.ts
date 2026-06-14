@@ -103,13 +103,6 @@ export const projects: Project[] = [
     status: 'wip',
   },
   {
-    name: 'saas-base',
-    description: 'TanStack Start SaaS 项目基础模板',
-    tags: ['Template'],
-    repo: 'https://github.com/GreenBeanLiu/saas-base',
-    status: 'archived',
-  },
-  {
     name: 'sd-studio',
     description: 'AI 3D 模型生成平台，文字/图片输入，接入多 Provider，实时 Three.js 预览',
     tags: ['Full-Stack', 'AI', '3D'],

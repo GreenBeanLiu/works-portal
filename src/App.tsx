@@ -119,7 +119,7 @@ export default function App() {
                       href={project.repo}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-muted-foreground transition-colors hover:text-foreground"
+                      className="inline-flex items-center text-muted-foreground transition-colors hover:text-foreground"
                       aria-label="GitHub"
                     >
                       <svg viewBox="0 0 16 16" className="h-3.5 w-3.5" fill="currentColor">
