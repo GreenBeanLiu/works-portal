@@ -123,7 +123,7 @@ export const projects: Project[] = [
     description: 'Agent 配置命令行工具',
     tags: ['CLI', 'Agent'],
     repo: 'https://github.com/GreenBeanLiu/agent-config-cli',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'pi-harness-agent',
