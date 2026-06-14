@@ -140,14 +140,6 @@ export const projects: Project[] = [
     status: 'wip',
   },
   {
-    name: 'threejs-demo',
-    description: 'Three.js 学习项目',
-    tags: ['3D', 'Frontend'],
-    url: 'https://threejs-demo-production.up.railway.app',
-    repo: 'https://github.com/GreenBeanLiu/threejs-demo',
-    status: 'live',
-  },
-  {
     name: 'claude-api-test',
     description: 'Claude API 测试与实验',
     tags: ['AI', 'API'],
