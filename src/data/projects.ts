@@ -124,7 +124,7 @@ export const projects: Project[] = [
     tags: ['Full-Stack', 'AI', '3D'],
     url: 'https://tripo-gen-production.up.railway.app',
     repo: 'https://github.com/GreenBeanLiu/tripo-gen',
-    status: 'wip',
+    status: 'live',
   },
   {
     name: 'agent-config-cli',
