@@ -130,6 +130,7 @@ export const projects: Project[] = [
     description: 'Raspberry Pi 自动化 harness agent',
     tags: ['IoT', 'Agent'],
     url: 'https://pi-harness-agent-production.up.railway.app',
+    repo: 'https://github.com/GreenBeanLiu/pi-harness-agent',
     status: 'live',
   },
   {
